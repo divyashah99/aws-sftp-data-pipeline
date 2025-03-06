@@ -37,10 +37,9 @@ This project presents a streamlined, serverless data pipeline that seamlessly or
 ## 📽️ Video Demonstration
 
 🎥 Watch the pipeline in action:
-[![Watch the Video](./assets/architecture.png)](./assets/demo_video.mp4)
+[![Watch the Video]](./assets/demo_video.mp4)
 
 
 ## Conclusion
 
-This pipeline provides a scalable and serverless approach to handling file transfers, processing, and real-time analytics using AWS and Snowflake. 🚀
-
+This pipeline provides a scalable and serverless approach to handling file transfers, processing, and real-time analytics using AWS and Snowflake. 
