@@ -2,11 +2,11 @@
 
 ## Overview
 
-![Architecture Diagram](./assets/architecture.png)
-
 This project presents a streamlined, serverless data pipeline that seamlessly orchestrates file transfers, transformations, and ingestion into a cloud ecosystem.
 
 ## Architecture
+
+![Architecture Diagram](./assets/architecture.png)
 
 ### Ingest Stage
 
@@ -34,7 +34,7 @@ This project presents a streamlined, serverless data pipeline that seamlessly or
 - **Amazon SQS** (Event notification)
 - **Snowpipe & Snowflake** (Real-time data ingestion and analytics)
 
-## 📽️ Video Demonstration
+## Video Demonstration
 
 https://github.com/user-attachments/assets/c9440c9a-fcaa-44cd-b70b-4f30713319e0
 
