@@ -36,9 +36,7 @@ This project presents a streamlined, serverless data pipeline that seamlessly or
 
 ## 📽️ Video Demonstration
 
-🎥 Watch the pipeline in action:
-[![Watch the Video]](./assets/demo_video.mp4)
-
+🎥 [Watch the pipeline in action](https://github.com/user-attachments/assets/c9440c9a-fcaa-44cd-b70b-4f30713319e0)
 
 ## Conclusion
 
